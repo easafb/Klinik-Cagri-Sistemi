@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "KlinikUygulamasi",
+    "Projects": [
+      {
+        "Path": "kliniksira\\kliniksira.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "KlinikMonitor\\KlinikMonitor.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

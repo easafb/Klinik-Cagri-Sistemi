@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="KlinikMonitor/KlinikMonitor.csproj" Id="4cf01759-8e86-4365-ad88-e929bdbd50f7" />
+  <Project Path="kliniksira/kliniksira.csproj" />
+</Solution>
